@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/tommy3-bit/damage-calc.svg?style=svg)](https://circleci.com/gh/tommy3-bit/damage-calc)
+
+
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
